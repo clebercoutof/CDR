@@ -5,12 +5,19 @@ Código utilizado para o projeto de um compensador dinâmico reativo
 ## Prerequisites
 
 Para realização do projeto foram utilizados:
+
 -Dois sensores de corrente projetados para os valores à serem medidos;
+
 -Dois sensores de tensão projetos analogamente;
+
 -Display LCD para mostrar os resultados;
+
 -Botões para Controle da Tensão;
+
 -Arduino Mega+;
+
 -Circuito de Gate Driver para gerar tensão na excitatriz;
+
 
 ## Deployment
 O projeto é uma proposta interdisciplinar da [Centro Universitario Senai CIMATEC](http://www.senaicimatec.com.br/)
