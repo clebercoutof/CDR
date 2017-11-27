@@ -23,6 +23,7 @@ Para realização do projeto foram utilizados:
 O projeto é uma proposta interdisciplinar da [Centro Universitario Senai CIMATEC](http://www.senaicimatec.com.br/)
 O sistema tem como objetivo desenvolver um conversor de potência para energizar o rotor de uma máquina síncrona de 
 forma que a máquina funcione como um Compensador Dinâmico Reativo.
+
 O Arduino irá medir os valores de tensão do barramento que estarão conectados os motores, tensão no inversor, corrente
 do barramento e corrente do motor síncrono.Assim como, por meio de botões receber o comando do usuário para controlar um 
 circuito de Gate Driver que gerará uma tensão na excitatriz do motor síncrono  
@@ -37,15 +38,4 @@ circuito de Gate Driver que gerará uma tensão na excitatriz do motor síncrono
 
 * **Cleber Couto Filho** - *Trabalho inici9al* - [clebercoutof](https://github.com/clebercoutof)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project was used as a 
-
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
 
