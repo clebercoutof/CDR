@@ -20,7 +20,7 @@ Para realização do projeto foram utilizados:
 
 
 ## Deployment
-O projeto é uma proposta interdisciplinar da [Centro Universitario Senai CIMATEC](http://www.senaicimatec.com.br/)
+O projeto é uma proposta interdisciplinar da Centro Universitario [Senai CIMATEC](http://www.senaicimatec.com.br/)
 O sistema tem como objetivo desenvolver um conversor de potência para energizar o rotor de uma máquina síncrona de 
 forma que a máquina funcione como um Compensador Dinâmico Reativo.
 
@@ -36,6 +36,6 @@ circuito de Gate Driver que gerará uma tensão na excitatriz do motor síncrono
 
 ## Authors
 
-* **Cleber Couto Filho** - *Trabalho inici9al* - [clebercoutof](https://github.com/clebercoutof)
+* **Cleber Couto Filho** - *Trabalho inicial* - [clebercoutof](https://github.com/clebercoutof)
 
 
